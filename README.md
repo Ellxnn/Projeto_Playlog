@@ -1,17 +1,67 @@
-# catalogo_jogos
+# 🎮 PlayLog
 
-A new Flutter project.
+O PlayLog é um aplicativo desenvolvido em Flutter como projeto acadêmico, com o objetivo de apresentar um catálogo simples de jogos e praticar conceitos de desenvolvimento mobile.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+* Exibição de uma lista de jogos
+* Visualização de detalhes de cada jogo
+* Navegação entre telas
+* Menu lateral
+* Tela com informações sobre o projeto
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
+* Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Estrutura do Projeto
+
+```text
+lib/
+├── models/
+├── screens/
+├── widgets/
+└── main.dart
+```
+
+## Como Executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/SEU-USUARIO/playlog.git
+```
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd playlog
+```
+
+3. Instale as dependências:
+
+```bash
+flutter pub get
+```
+
+4. Execute o aplicativo:
+
+```bash
+flutter run
+```
+
+## Objetivo
+
+Aplicar conceitos básicos de Flutter, incluindo:
+
+* Criação de interfaces gráficas
+* Navegação entre telas
+* Organização de código em arquivos e widgets
+* Utilização de listas e objetos
+
+## Desenvolvido por
+
+Ellen Nóbrega
+Estudante de Sistemas para Internet
