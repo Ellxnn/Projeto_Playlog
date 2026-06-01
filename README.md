@@ -63,6 +63,6 @@ Aplicar conceitos básicos de Flutter, incluindo:
 
 ## Desenvolvido por
 
-- Elen Nóbrega /
+- Elen Nóbrega 
 - Camilly Venâncio
-Estudantes de Sistemas para Internet
+- Estudantes de Sistemas para Internet
